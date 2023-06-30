@@ -51,7 +51,7 @@ Local Installation
 
 Follow these steps to deploy the project in your local environment:
 
-Clone the repository to your local machine with git clone https://github.com/username/project.git.
+Clone the repository to your local machine with git clone https://github.com/NahuelSavedra/conexa-backend.git
 
 Navigate to the project directory with cd project.
 
